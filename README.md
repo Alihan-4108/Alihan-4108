@@ -12,7 +12,7 @@
 <h3 align="left">🌟 Featured Project</h3>
 
 - 🔪 [Sprite Slicer Editor](https://github.com/Alihan-4108/Sprite-Slicer-Editor)  
-  An advanced 2D sprite slicing tool for Unity with a custom Editor UI.
+  Sprite Slicer is an Editor tool developed for Unity. Automatically slices one or more sprites of the same width and height.
 
 ---
 
@@ -26,10 +26,10 @@
 <h3 align="left">Other Platforms:</h3>
 <p align="left">
   <a href="https://mehmet-alihan-aydin.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Play_on-Itch.io-red?logo=itch-io&style=for-the-badge" alt="Itch.io" />
+    <img src="https://img.shields.io/badge/-Itch.io-red?logo=itch-io&style=for-the-badge" alt="Itch.io" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8854870565271555685" target="_blank">
-    <img src="https://img.shields.io/badge/Available_on-Google_Play-34A853?logo=google-play&style=for-the-badge" alt="Google Play" />
+    <img src="https://img.shields.io/badge/-Google_Play-34A853?logo=google-play&style=for-the-badge" alt="Google Play" />
   </a>
 </p>
 
