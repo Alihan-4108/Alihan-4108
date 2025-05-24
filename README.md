@@ -44,7 +44,3 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Contact</h3>
-<p>Email: <a href="mailto:mehmetalihanaydin0841@gmail.com">mehmetalihanaydin0841@gmail.com</a></p>
-
