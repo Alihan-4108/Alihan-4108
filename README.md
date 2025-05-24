@@ -23,13 +23,13 @@
 </a>
 </p>
 
-<h3 align="left">Other Platforms:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mehmet-alihan-aydin.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Itch.io-red?logo=itch-io&style=for-the-badge" alt="Itch.io" />
+  <a href="https://linkedin.com/in/mehmet-alihan-aydın-bbb9b5280/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mehmet Alihan Aydın" height="30" width="40" />
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=8854870565271555685" target="_blank">
-    <img src="https://img.shields.io/badge/-Google_Play-34A853?logo=google-play&style=for-the-badge" alt="Google Play" />
+  <a href="mailto:mehmetalihanaydin0841@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email - Gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -43,8 +43,3 @@
   </a>
 </p>
 
-
----
-
-<h3 align="left">Contact</h3>
-<p>Email: <a href="mailto:your.email@example.com">mehmetalihanaydin0841@gmail.com</a></p>
