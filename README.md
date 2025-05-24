@@ -48,7 +48,4 @@
 ---
 
 <h3 align="left">Contact</h3>
-<p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-
-<h3 align="left">GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alihan-4108&show_icons=true&locale=en" alt="alihan-4108" /></p>
+<p>Email: <a href="mailto:your.email@example.com">mehmetalihanaydin0841@gmail.com</a></p>
