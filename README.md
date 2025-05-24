@@ -20,10 +20,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/mehmet-alihan-aydın-bbb9b5280/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mehmet Alihan Aydın" height="30" width="40" />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&to=mehmetalihanaydin0841@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email - Gmail" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Other Platforms:</h3>
@@ -42,4 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Contact</h3>
+<p>Email: <a href="mailto:mehmetalihanaydin0841@gmail.com">mehmetalihanaydin0841@gmail.com</a></p>
 
