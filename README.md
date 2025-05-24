@@ -22,6 +22,11 @@
   <a href="https://linkedin.com/in/mehmet-alihan-aydın-bbb9b5280/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mehmet Alihan Aydın" height="30" width="40" />
   </a>
+</p>
+
+<p align="left">
+  📧 Email: <a href="mailto:mehmetalihanaydin0841@gmail.com">mehmetalihanaydin0841@gmail.com</a>
+</p>
   
   <!-- Gmail Icon (no mailto link, just visual) -->
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email - Gmail" height="30" width="40" style="margin-left:10px;" />
