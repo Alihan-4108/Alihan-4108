@@ -3,6 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan-4108&label=Profile%20views&color=0e75b6&style=flat" alt="alihan-4108" /> </p>
 
+---
+
+🎮 I'm a Unity game developer specializing in C#. I create both 2D and 3D games, develop custom Editor tools, and design gameplay systems. I focus on performance, flexibility, and delivering great player experiences. I enjoy contributing to open-source projects and constantly improving my skills.
+
+---
+
+<h3 align="left">🌟 Featured Project</h3>
+
+- 🔪 [Sprite Slicer Editor](https://github.com/Alihan-4108/Sprite-Slicer-Editor)  
+  An advanced 2D sprite slicing tool for Unity with a custom Editor UI.
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-alihan-aydın-bbb9b5280/" target="blank">
