@@ -27,14 +27,6 @@
 <p align="left">
   📧 Email: <a href="mailto:mehmetalihanaydin0841@gmail.com">mehmetalihanaydin0841@gmail.com</a>
 </p>
-  
-  <!-- Gmail Icon (no mailto link, just visual) -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email - Gmail" height="30" width="40" style="margin-left:10px;" />
-</p>
-
-<!-- Email written under the icons -->
-<p align="left">Email: mehmetalihanaydin0841@gmail.com</p>
-
 
 <h3 align="left">Other Platforms:</h3>
 <a href="https://mehmet-alihan-aydin.itch.io/" target="_blank">
