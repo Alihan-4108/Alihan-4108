@@ -5,7 +5,7 @@
 
 ---
 
-🎮 I'm a Unity game developer specializing in C#. I create both 2D and 3D games, develop custom Editor tools, and design gameplay systems. I focus on performance, flexibility, and delivering great player experiences. I enjoy contributing to open-source projects and constantly improving my skills.
+🎮 I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating custom Editor tools, and building gameplay systems. I'm always learning and improving my skills to make better games.
 
 ---
 
@@ -44,3 +44,11 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihan-4108&show_icons=true&locale=en&layout=compact" alt="alihan-4108" /></p>
+
+---
+
+<h3 align="left">Contact</h3>
+<p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+
+<h3 align="left">GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alihan-4108&show_icons=true&locale=en" alt="alihan-4108" /></p>
