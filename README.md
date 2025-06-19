@@ -5,7 +5,7 @@
 
 ---
 
-🎮 I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating custom Editor tools, and building gameplay systems. I'm always learning and improving my skills to make better games.
+🎮 I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating custom Editor tools, and building gameplay systems. I'm always learning new things and improving my skills to make better games.
 
 ---
 
