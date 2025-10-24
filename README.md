@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alihan Aydın</h1>
 <h3 align="center">Unity/C# Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan-4108&label=Profile%20views&color=0e75b6&style=flat" alt="alihan-4108" /> </p>
+<!- [<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan-4108&label=Profile%20views&color=0e75b6&style=flat" alt="alihan-4108" /> </p>] -> 
 
 ---
 
