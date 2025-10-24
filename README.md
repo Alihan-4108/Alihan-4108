@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alihan Aydın</h1>
 <h3 align="center">Unity/C# Game Developer</h3>
 
-<!- [<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan-4108&label=Profile%20views&color=0e75b6&style=flat" alt="alihan-4108" /> </p>] -> 
-
 ---
 
 🎮 I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating custom Editor tools, and building gameplay systems. I'm always learning new things and improving my skills to make better games.
