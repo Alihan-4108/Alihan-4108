@@ -7,10 +7,14 @@ I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating cu
 
 ---
 
-<h3 align="left">🌟 Featured Project</h3>
+<h3 align="left">🌟 Featured Projects</h3>
 
 - 🔪 [Sprite Slicer Editor](https://github.com/Alihan-4108/Sprite-Slicer-Editor)  
   Sprite Slicer is an Editor tool developed for Unity. Automatically slices one or more sprites of the same width and height.
+
+- 🧩 [World Layout Group](https://github.com/Alihan-4108/World-Layout-Group)  
+  A lightweight Unity editor component that automatically arranges world objects like UI LayoutGroup.
+
 
 ---
 
