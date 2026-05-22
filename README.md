@@ -33,8 +33,6 @@ I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating cu
 <h3 align="left">Other Platforms:</h3>
 <a href="https://mehmet-alihan-aydin.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Itch.io-red?logo=itch-io&style=for-the-badge" alt="Itch.io" />
-<a href="https://play.google.com/store/apps/dev?id=8854870565271555685" target="_blank">
-    <img src="https://img.shields.io/badge/-Google_Play-34A853?logo=google-play&style=for-the-badge" alt="Google Play" />
 
 
 <h3 align="left">Languages and Tools:</h3>
