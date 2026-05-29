@@ -15,6 +15,9 @@ I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating cu
 - 🧩 [World Layout Group](https://github.com/Alihan-4108/World-Layout-Group)  
   A lightweight Unity editor component that automatically arranges world objects like UI LayoutGroup.
 
+- 🪄 [Serialize ScriptableObject](https://github.com/Alihan-4108/Serialize-ScriptableObject)  
+  A lightweight Unity editor tool that allows you to inspect and edit ScriptableObject references directly inside the Inspector without opening them separately.
+
 
 ---
 
