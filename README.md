@@ -9,14 +9,14 @@ I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating cu
 
 <h3 align="left">🌟 Featured Projects</h3>
 
+- 🪄 [Serialize ScriptableObject](https://github.com/Alihan-4108/Serialize-ScriptableObject)  
+  A lightweight Unity editor tool that allows you to inspect and edit ScriptableObject references directly inside the Inspector without opening them separately.
+
 - 🔪 [Sprite Slicer Editor](https://github.com/Alihan-4108/Sprite-Slicer-Editor)  
   Sprite Slicer is an Editor tool developed for Unity. Automatically slices one or more sprites of the same width and height.
 
 - 🧩 [World Layout Group](https://github.com/Alihan-4108/World-Layout-Group)  
   A lightweight Unity editor component that automatically arranges world objects like UI LayoutGroup.
-
-- 🪄 [Serialize ScriptableObject](https://github.com/Alihan-4108/Serialize-ScriptableObject)  
-  A lightweight Unity editor tool that allows you to inspect and edit ScriptableObject references directly inside the Inspector without opening them separately.
 
 
 ---
