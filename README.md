@@ -9,6 +9,9 @@ I'm a Unity Game Developer. I enjoy working on both 2D and 3D games, creating cu
 
 <h3 align="left">🌟 Featured Projects</h3>
 
+- 🎬 [Scene Switcher Bar](https://github.com/Alihan-4108/Scene-Switcher-Bar)  
+  A lightweight Unity editor tool that adds quick scene-switching buttons to the main toolbar, letting you choose exactly which scenes appear.
+
 - 🪄 [Serialize ScriptableObject](https://github.com/Alihan-4108/Serialize-ScriptableObject)  
   A lightweight Unity editor tool that allows you to inspect and edit ScriptableObject references directly inside the Inspector without opening them separately.
 
